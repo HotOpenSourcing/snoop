@@ -3,8 +3,8 @@ __pycache__
 __pycache__/
 results
 results/
-.vscode
-.vscode/
 old
 old/
 a.py
+config.bat
+node_modules
